@@ -1,0 +1,11 @@
+.container{
+    background-color: #eee;
+    width: 100px;
+    height: 300px;
+
+}
+.row{
+    width: 30px;
+    height: 40px;
+    margin: 0 auto;
+}
