@@ -1,10 +1,10 @@
-.container{
+table{
     background-color: #eee;
     width: 100px;
     height: 300px;
 
 }
-.row{
+td{
     width: 30px;
     height: 40px;
     margin: 0 auto;
